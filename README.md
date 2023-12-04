@@ -2,4 +2,4 @@
 
 See https://adventofcode.com/2023
 
-Note: The input data provided by AoC might be different per user! 
+Repo doesn't contain actual puzzle inputs. See https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/
